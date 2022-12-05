@@ -1,5 +1,5 @@
 <h2 align="left">Hi there, I'm Polina</h2>
-<p align="left">🧝🏼‍♀️ Yandex.Practicum Student</p>
+<p align="left">🐣 Yandex.Practicum Student</p>
 
 <h4 align="left">🌱 Frontend developer</h4>
 
